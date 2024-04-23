@@ -1,6 +1,5 @@
 venv
 .env
-fb_club_crawler_02.ipynb
-fb_club_crawler_01.ipynb
 index.html
 __pycache__
+02_fb_club_crawler_bonus.ipynb
