@@ -1,5 +1,4 @@
 venv
 .env
-index.html
 __pycache__
 02_fb_club_crawler_bonus.ipynb
