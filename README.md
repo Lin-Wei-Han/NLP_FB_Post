@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/-John%20Lin-blue?style=for-the-badge&logo=facebook&logoColor=white&labelColor=gray&color=blue">
   </a>
   <a aria-label="TSDC" href="https://medium.com/tkustatdc">
-    <img alt="" src="https://img.shields.io/badge/-TSDC%20CLUB-blue?style=for-the-badge&logo=Medium&logoColor=white&labelColor=gray&color=blue">
+    <img alt="" src="https://img.shields.io/badge/-TSDC%20CLUB-blue?style=for-the-badge&logo=&logoColor=white&labelColor=gray&color=blue">
   </a>
   <a aria-label="Follow me" href="https://medium.com/@xcswap.john">
     <img alt="" src="https://img.shields.io/badge/-FOLLOW%20ME-blue?style=for-the-badge&logo=Medium&logoColor=white&labelColor=gray&color=blue">
