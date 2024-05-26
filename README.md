@@ -85,4 +85,5 @@ pip install -r requirements.txt
 - [【NLP 自然語言處理 01】2024 FaceBook 社團貼文爬蟲 Part 2](https://medium.com/tkustatdc/nlp-自然語言處理-01-2024-facebook社團貼文爬蟲part-2-013ae7103055)
 - [【NLP 自然語言處理 01】2024 FaceBook 社團貼文爬蟲 Bonus](https://medium.com/tkustatdc/nlp-自然語言處理-01-2024-facebook社團貼文爬蟲-bonus-2b5c48b88ac1)
 - [【NLP 自然語言處理 02】文本前處理 — CKIP 中文斷詞](https://medium.com/tkustatdc/nlp-自然語言處理-02-文本前處理-ckip中文斷詞-e7db5c147bef)
+
   -------- 待更新 ----------
