@@ -3,3 +3,5 @@ venv
 __pycache__
 data.zip
 data
+04_word2vector.ipynb
+model
