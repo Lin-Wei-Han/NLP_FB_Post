@@ -24,6 +24,10 @@
 - [🔥 Clone this Repository（Vscode）](#-clone-this-repositoryvscode)
 - [✒️ Medium 文章列表](#%EF%B8%8F-medium-文章列表)
 
+## Recommended Version
+
+- Python 3.10.9
+
 ## 💪 開發環境建置
 
 如果完全沒使用過 Python 的話，可參考以下資源：
